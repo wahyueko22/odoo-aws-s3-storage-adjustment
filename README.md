@@ -2,7 +2,7 @@
 
 ## Summary
 
-Allows to use Amazon S3 Bucket as file storage
+Allows to use Amazon S3 Bucket as file storage, this version is intended to read and upload file to S3 storage for image only
 
 ## Description
 
